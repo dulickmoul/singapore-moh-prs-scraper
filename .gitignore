@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+
+output/
+logs/
+*.log
+*.jsonl
+*.db
+
+*_state.json
