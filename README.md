@@ -1,4 +1,4 @@
-# 🇸🇬 Singapore MOH PRS Scraper (Healthcare Registry Pipeline)
+# Singapore MOH PRS Scraper (Healthcare Registry Pipeline)
 
 ## Overview
 
